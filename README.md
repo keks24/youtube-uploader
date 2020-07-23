@@ -1,2 +1,2 @@
 # youtube-uploader
-My very first shell script on a Raspberry Pi to upload YouTube videos via CLI.
+my very first shell script on a raspberry pi to upload youtube videos via cli
